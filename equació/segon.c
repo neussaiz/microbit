@@ -1,10 +1,3 @@
-/*****************************************************
-    programa que calcula les rels de la ecuació
-    de 2n grau
-    IMPORTANT: compilar amb $ gcc -o segon segon.c -lm
-    Xavi Blanes curs 24/25
-*****************************************************/
-
 #include <stdio.h>
 #include <math.h>
 
